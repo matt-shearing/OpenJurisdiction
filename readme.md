@@ -1,6 +1,6 @@
 # Open Jurisdiction
 
-The goal of this project is to build a truly open-source jurisdictional framework where any group, community or network can stand up bespoke, fit-for-purpose governance frameworks. Currently, jurisdictional frameworks are limited to nation-states who impose their will and claim jurisdiction largely through force. It is hoped that this project may ultimately enable our species to do away with the concept of deriving jurisdiction through violence, and instead through mutual agreement at a much more localised level.
+The goal of this project is to build an open-source jurisdictional framework where any group, community or network can stand up bespoke, fit-for-purpose governance frameworks. Currently, jurisdictional frameworks are limited to nation-states who impose their will and claim jurisdiction largely through force. It is hoped that this project may ultimately enable our species to do away with the concept of deriving jurisdiction through violence, and instead through mutual agreement at a much more localised level.
 
 The 'base' documents will be foundational documents based on the Non-Aggression Principle (detailed below). All documents can be expanded from the base versions, and as the project grows, it is my hope that we'll have several 'ready made' jurisdictional frameworks for various situations and needs. Over time, these may evolve to incorporate other technologies.
 
