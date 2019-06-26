@@ -9,6 +9,7 @@ The 'base' documents will be foundational documents based on the Non-Aggression 
 
 *"No one may threaten or commit violence ('aggress') against another man's person or property. Violence may be employed only against the man who commits such violence; that is, only defensively against the aggressive violence of another. In short, no violence may be employed against a nonaggressor."*
 
+- Murray N. Rothbard
 
 ## Acknowledgements
 
